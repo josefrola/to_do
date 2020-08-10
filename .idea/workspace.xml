@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bcc5ecc-55e2-4651-89e6-c28d2f321390" name="Default Changelist" comment="" />
+    <list default="true" id="6bcc5ecc-55e2-4651-89e6-c28d2f321390" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +19,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1frrZIbrl3XIkCHo4w8xTgZpF64" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,11 +52,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596987107379</updated>
-      <workItem from="1596987108648" duration="7430000" />
+      <workItem from="1596987108648" duration="7866000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="532" y="385" key="Github.CreateGistDialog" timestamp="1597064242788">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="532" y="385" key="Github.CreateGistDialog/0.23.1440.877@0.23.1440.877" timestamp="1597064242788" />
+    <state x="598" y="369" key="Github.ShareDialog" timestamp="1597064270645">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="598" y="369" key="Github.ShareDialog/0.23.1440.877@0.23.1440.877" timestamp="1597064270645" />
+    <state x="566" y="84" key="Github.UntrackedFilesDialog" timestamp="1597064292120">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="566" y="84" key="Github.UntrackedFilesDialog/0.23.1440.877@0.23.1440.877" timestamp="1597064292120" />
+    <state x="539" y="352" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597064617836">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="539" y="352" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.877@0.23.1440.877" timestamp="1597064617836" />
   </component>
 </project>
